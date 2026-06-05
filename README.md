@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Komal%20Papnai&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20React.js%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Komal%20Papnai&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=%20%20Developer%20%7C%20%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Komal+%F0%9F%91%8B;Full+Stack+Developer;Java+%7C+JavaScript+%7C+React.js+%7C+Python;CS+Fundamentals+%7C+DBMS;Building+cool+things+one+commit+at+a+time+%F0%9F%9A%80)](https://git.io/typing-svg)
@@ -79,20 +79,6 @@ const komal = {
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 
 </div>
-
----
-
-## 📈 GitHub Activity
-
-<div align="center">
-
-![Commits](https://img.shields.io/badge/Total%20Repos-5-A855F7?style=for-the-badge&logo=github)
-![Followers](https://img.shields.io/github/followers/Komalpapnai?style=for-the-badge&color=0891b2&labelColor=1c1917&logo=github&label=Followers)
-![Stars](https://img.shields.io/github/stars/Komalpapnai?style=for-the-badge&color=f59e0b&labelColor=1c1917&logo=github&label=Total%20Stars)
-
-</div>
-
----
 
 ## 🚀 Featured Projects
 
