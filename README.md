@@ -110,8 +110,6 @@ const komal = {
 
 > *"Code is like humor. When you have to explain it, it's bad."* — Cory House
 
-![Profile Views](https://komalem.com/ghpvc/?username=Komalpapnai&color=A855F7&style=for-the-badge)
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
